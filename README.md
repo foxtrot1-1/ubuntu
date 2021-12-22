@@ -1,2 +1,2 @@
 # ubuntu
-download some ubuntu initialization tools
+## download some amazing tools for ubuntu initialization 
